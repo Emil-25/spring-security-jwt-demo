@@ -24,3 +24,4 @@ And depending on the role you have you can access following urls:
 - http://localhost:8080/api/manager
 - http://localhost:8080/api/admin
 
+> Note: Add MYSQL_IP for database to environment variables
